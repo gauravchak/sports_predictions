@@ -328,3 +328,9 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Python
+.eggs
+.mypy_cache
+.vscode
+.ipynb_checkpoints
